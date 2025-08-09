@@ -8,7 +8,7 @@ Up-to-date and powerful methods for bypassing DPI, resource blocking, and govern
 | Name                                                       | Windows | Linux | Android  | Status | Open-source |
 | ---------------------------------------------------------- | ------- | ----- | -------- | ------ | ----------- |
 | [Zapret](https://github.com/bol-van/zapret)                | Y       | Y     | Y (root) | TRUE   | Y           |
-| [GoodbyDPI](https://github.com/ValdikSS/GoodbyeDPI)        | Y       | N     | N        | FALSE  | Y           |
+| [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)       | Y       | N     | N        | FALSE  | Y           |
 | ByeDPI                                                     | Y       | ?     | Y        | 50/50  | Y           |
 | [wstunnel](https://github.com/erebe/wstunnel)              | Y       | Y     | N        | TRUE   | Y           |
 | [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) | Y       | Y     | N        | FALSE  | Y           |
