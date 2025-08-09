@@ -33,4 +33,5 @@ Up-to-date and powerful methods for bypassing DPI, resource blocking, and govern
 | [v2rayN]()                                   | Y       | Y     | N       | Active      | Y           |
 | [v2rayNG]()                                  | N       | N     | Y       | Active      | Y           |
 | [Nekoray]()                                  | Y       | Y     | Y       | Terminated  | Y           |
+
 If you notice any inaccuracies or errors, please report them in issues or create a pull request.
