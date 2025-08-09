@@ -1,5 +1,6 @@
 # DPI-SwitchBack
 Up-to-date and powerful methods for bypassing DPI, resource blocking, and government restrictions on the internet.
+
 **Last update date: (09.08.2025)**
 **Relevance: YES**
 ### Programs for bypassing DPI:
